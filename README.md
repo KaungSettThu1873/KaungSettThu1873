@@ -24,12 +24,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KaungSettThu1873&show_icons=true&theme=tokyonight" alt="Kaung Sett Thu's GitHub stats" />
-</p>
-
 ---
 
 ### 📫 Connect with me
