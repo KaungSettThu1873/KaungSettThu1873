@@ -21,13 +21,29 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </p>
-
+--
+### 🏆 Certificates
+- 🌟 **Full-Stack Web Development Certificate** — CodeLab (2024)
+- 🌟 **Php + Deep Dive Laravel** — CreativeCoder (2025)
 ---
+### 📖 Currently Learning
 
+- 🌐 **MERN Stack Development**  
+  (MongoDB, Express.js, React, Node.js)
+
+- ⚙️ **Deep JavaScript Concepts**  
+  (Asynchronous JS, Closures, Event Loop)
+
+- 🗄️ **Database Design & Optimization**  
+  (MySQL, MongoDB indexing, normalization)
+
+- 📚 **Computer Science Fundamentals**  
+  (Data Structures, Algorithms, System Design)
 ---
-
 ### 📫 Connect with me
 
 <p align="left">
-<!-- Add your social links here if you want -->
+  <a href="https://www.facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
