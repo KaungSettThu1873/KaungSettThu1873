@@ -32,7 +32,7 @@
 ---
 
 ### 📖 Currently Learning
-
+<p align="left">
 - 🌐 **MERN Stack Development**  
   (MongoDB, Express.js, React, Node.js)
 
@@ -45,6 +45,8 @@
 - 📚 **Computer Science Fundamentals**  
   (Data Structures, Algorithms, System Design)
   
+</p>
+
 ---
 
 ### 📫 Connect with me
